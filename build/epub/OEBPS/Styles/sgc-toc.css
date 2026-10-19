@@ -1,0 +1,23 @@
+div.sgc-toc-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+	color:#8E0F0F; 
+}
+
+div.sgc-toc-level-1 {
+	margin-left: 0;
+	padding-top:0.5em;
+}
+
+div.sgc-toc-level-2 {
+    margin-left: 6%;
+	padding-top:0.2em;
+
+}
+
+div.sgc-toc-level-3 {
+    margin-left: 6%;
+}
+

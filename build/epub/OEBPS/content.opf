@@ -1,0 +1,145 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>El flamenco contado con sencillez</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Carlos Arbelos">Carlos Arbelos</dc:creator>
+    <dc:description>Una guía completa para entender todas las claves de una de las manifestaciones musicales y culturales más asombrosas. El flamenco siempre ha sido un arte intensamente cargado de misterio y apreciado solamente por públicos singulares y minoritarios. Poco a poco se fue abriendo paso hasta dejar de ser una música sólo para entendidos y aficionados, para cautivar con toda su belleza musical y estética a amplios sectores de una sociedad en la que había estado desacreditado durante décadas. Carlos Arbelos nos revela los secretos de su origen, las diferencias que hay entre sus palos y estilos, su desarrollo desde las estructuras más primitivas hasta las actuales formas de vanguardia, y nos acerca al famoso duende que lo transforma en un género musical universalmente singular. De una manera clara, didáctica y entretenida descubriremos en El Flamenco contado con sencillez que los misterios no son tales y la presunta «oscuridad» es sólo falta de conocimiento sobre el tema.</dc:description>
+    <dc:date>2002-12-31T23:00:00+00:00</dc:date>
+    <dc:date opf:event="modification">2021-11-13</dc:date>
+    <dc:publisher>Epublibre</dc:publisher>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:cd71744d-1093-43ee-a34c-a4f46ee6980d</dc:identifier>
+    <dc:subject>Divulgación</dc:subject>
+    <dc:subject>Arte</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>es</dc:language>
+    <dc:identifier opf:scheme="calibre">bb77237d-d3ff-4d4e-ae19-a8edc42589ff</dc:identifier>
+    <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+    <dc:identifier opf:scheme="EPL">63902</dc:identifier>
+    <meta name="Sigil version" content="1.2.0"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta name="calibre:title_sort" content="El flamenco contado con sencillez"/>
+    <meta name="calibre:user_metadata:#version" content="{&quot;table&quot;: &quot;custom_column_5&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Versión&quot;, &quot;search_terms&quot;: [&quot;#version&quot;], &quot;label&quot;: &quot;version&quot;, &quot;colnum&quot;: 5, &quot;display&quot;: {&quot;is_names&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 28, &quot;#value#&quot;: [&quot;1.0&quot;], &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;ui_to_list&quot;: &quot;,&quot;, &quot;list_to_ui&quot;: &quot;, &quot;}}"/>
+    <meta name="calibre:user_metadata:#autor_ord" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Autores&quot;, &quot;search_terms&quot;: [&quot;#autor_ord&quot;], &quot;label&quot;: &quot;autor_ord&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{author_sort}&quot;, &quot;use_decorations&quot;: 0, &quot;contains_html&quot;: false, &quot;make_category&quot;: true}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: &quot;Carlos Arbelos&quot;, &quot;is_multiple2&quot;: {}}"/>
+    <meta name="calibre:user_metadata:#epg_id" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;float&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;EPL Id&quot;, &quot;search_terms&quot;: [&quot;#epg_id&quot;], &quot;label&quot;: &quot;epg_id&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:0&gt;6.0f}&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 24, &quot;#value#&quot;: 10063902.0, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_4&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Páginas&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 4, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,}&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 26, &quot;#value#&quot;: 167, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    <meta name="calibre:user_metadata:#estado" content="{&quot;table&quot;: &quot;custom_column_3&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Estado&quot;, &quot;search_terms&quot;: [&quot;#estado&quot;], &quot;label&quot;: &quot;estado&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 25, &quot;#value#&quot;: &quot;Disp.&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    <meta name="calibre:user_metadata:#personal" content="{&quot;table&quot;: &quot;custom_column_6&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Leído&quot;, &quot;search_terms&quot;: [&quot;#personal&quot;], &quot;label&quot;: &quot;personal&quot;, &quot;colnum&quot;: 6, &quot;display&quot;: {&quot;default_value&quot;: false, &quot;bools_show_text&quot;: true, &quot;bools_show_icons&quot;: true, &quot;description&quot;: &quot;Columna para marcar los libros que ya se han leído&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 27, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <manifest>
+    <item id="cubierta.xhtml" href="Text/cubierta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sinopsis.xhtml" href="Text/sinopsis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titulo.xhtml" href="Text/titulo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="info.xhtml" href="Text/info.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prologo.xhtml" href="Text/Prologo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-Introduccion.xhtml" href="Text/1-Introduccion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-El_origen.xhtml" href="Text/2-El_origen.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-1-Imprecisiones.xhtml" href="Text/2-1-Imprecisiones.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-2-La_literatura.xhtml" href="Text/2-2-La_literatura.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-3-La_palabra_flamenco.xhtml" href="Text/2-3-La_palabra_flamenco.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-Su_dearrollo.xhtml" href="Text/3-Su_dearrollo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-1-Etapa_hermetica.xhtml" href="Text/3-1-Etapa_hermetica.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-2-La_edad_de_oro.xhtml" href="Text/3-2-La_edad_de_oro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-3-La_opra_flamenca.xhtml" href="Text/3-3-La_opra_flamenca.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-4-E_proceso_de_revalorizacion.xhtml" href="Text/3-4-E_proceso_de_revalorizacion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-5-El_encuentro_con_otras_musicas.xhtml" href="Text/3-5-El_encuentro_con_otras_musicas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-Las_diferentes_formas.xhtml" href="Text/4-Las_diferentes_formas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-Los_ritmos_basicos.xhtml" href="Text/4-1-Los_ritmos_basicos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-1-Los_romances.xhtml" href="Text/4-1-1-Los_romances.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-2-Las_tonas.xhtml" href="Text/4-1-2-Las_tonas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-3-Las_siguiriyas.xhtml" href="Text/4-1-3-Las_siguiriyas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-4-Las_soleares.xhtml" href="Text/4-1-4-Las_soleares.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-5-Los_tangos.xhtml" href="Text/4-1-5-Los_tangos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1-6-Las_cantinas.xhtml" href="Text/4-1-6-Las_cantinas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-2-Los_derivados_del_fandango.xhtml" href="Text/4-2-Los_derivados_del_fandango.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-2-1-Cantes_de_Malaga.xhtml" href="Text/4-2-1-Cantes_de_Malaga.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-2-2-Cantes_de_levante.xhtml" href="Text/4-2-2-Cantes_de_levante.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-2-3-Fandangos_de_Huelva.xhtml" href="Text/4-2-3-Fandangos_de_Huelva.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-3-Los_ritmos_aflamencados.xhtml" href="Text/4-3-Los_ritmos_aflamencados.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-3-1-De_origen_hispanoamericano.xhtml" href="Text/4-3-1-De_origen_hispanoamericano.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-3-2-De_rigen_andaluz.xhtml" href="Text/4-3-2-De_rigen_andaluz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-3-3-De_otros_sitios.xhtml" href="Text/4-3-3-De_otros_sitios.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-Creadores_e_interpretes.xhtml" href="Text/5-Creadores_e_interpretes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-1-Del_cante.xhtml" href="Text/5-1-Del_cante.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-2-Del_toque_de_guitarra.xhtml" href="Text/5-2-Del_toque_de_guitarra.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-3-Del_baile.xhtml" href="Text/5-3-Del_baile.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-4-Del_paino.xhtml" href="Text/5-4-Del_paino.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-5-De_la_fusion.xhtml" href="Text/5-5-De_la_fusion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A.Apendice_1.xhtml" href="Text/A.Apendice_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B.Apendice_2.xhtml" href="Text/B.Apendice_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B.Apendice_2-Para_leer.xhtml" href="Text/B.Apendice_2-Para_leer.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B.Apendice_2-Para_ver.xhtml" href="Text/B.Apendice_2-Para_ver.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B_Apendice_2-Para_escuchar.xhtml" href="Text/B_Apendice_2-Para_escuchar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B.Apendice_2-1-Antologias.xhtml" href="Text/B.Apendice_2-1-Antologias.xhtml" media-type="application/xhtml+xml"/>
+    <item id="B.Apendice_2-2-Artistas.xhtml" href="Text/B.Apendice_2-2-Artistas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="apbs04.xhtml" href="Text/apbs04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="autor.xhtml" href="Text/autor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notas.xhtml" href="Text/notas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="epl.css" href="Styles/epl.css" media-type="text/css"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+    <item id="autor.jpg" href="Images/autor.jpg" media-type="image/jpeg"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="EPL_logo.png" href="Images/EPL_logo.png" media-type="image/png"/>
+    <item id="ex_libris.png" href="Images/ex_libris.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cubierta.xhtml"/>
+    <itemref idref="sinopsis.xhtml"/>
+    <itemref idref="titulo.xhtml"/>
+    <itemref idref="info.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Prologo.xhtml"/>
+    <itemref idref="x1-Introduccion.xhtml"/>
+    <itemref idref="x2-El_origen.xhtml"/>
+    <itemref idref="x2-1-Imprecisiones.xhtml"/>
+    <itemref idref="x2-2-La_literatura.xhtml"/>
+    <itemref idref="x2-3-La_palabra_flamenco.xhtml"/>
+    <itemref idref="x3-Su_dearrollo.xhtml"/>
+    <itemref idref="x3-1-Etapa_hermetica.xhtml"/>
+    <itemref idref="x3-2-La_edad_de_oro.xhtml"/>
+    <itemref idref="x3-3-La_opra_flamenca.xhtml"/>
+    <itemref idref="x3-4-E_proceso_de_revalorizacion.xhtml"/>
+    <itemref idref="x3-5-El_encuentro_con_otras_musicas.xhtml"/>
+    <itemref idref="x4-Las_diferentes_formas.xhtml"/>
+    <itemref idref="x4-1-Los_ritmos_basicos.xhtml"/>
+    <itemref idref="x4-1-1-Los_romances.xhtml"/>
+    <itemref idref="x4-1-2-Las_tonas.xhtml"/>
+    <itemref idref="x4-1-3-Las_siguiriyas.xhtml"/>
+    <itemref idref="x4-1-4-Las_soleares.xhtml"/>
+    <itemref idref="x4-1-5-Los_tangos.xhtml"/>
+    <itemref idref="x4-1-6-Las_cantinas.xhtml"/>
+    <itemref idref="x4-2-Los_derivados_del_fandango.xhtml"/>
+    <itemref idref="x4-2-1-Cantes_de_Malaga.xhtml"/>
+    <itemref idref="x4-2-2-Cantes_de_levante.xhtml"/>
+    <itemref idref="x4-2-3-Fandangos_de_Huelva.xhtml"/>
+    <itemref idref="x4-3-Los_ritmos_aflamencados.xhtml"/>
+    <itemref idref="x4-3-1-De_origen_hispanoamericano.xhtml"/>
+    <itemref idref="x4-3-2-De_rigen_andaluz.xhtml"/>
+    <itemref idref="x4-3-3-De_otros_sitios.xhtml"/>
+    <itemref idref="x5-Creadores_e_interpretes.xhtml"/>
+    <itemref idref="x5-1-Del_cante.xhtml"/>
+    <itemref idref="x5-2-Del_toque_de_guitarra.xhtml"/>
+    <itemref idref="x5-3-Del_baile.xhtml"/>
+    <itemref idref="x5-4-Del_paino.xhtml"/>
+    <itemref idref="x5-5-De_la_fusion.xhtml"/>
+    <itemref idref="A.Apendice_1.xhtml"/>
+    <itemref idref="B.Apendice_2.xhtml"/>
+    <itemref idref="B.Apendice_2-Para_leer.xhtml"/>
+    <itemref idref="B.Apendice_2-Para_ver.xhtml"/>
+    <itemref idref="B_Apendice_2-Para_escuchar.xhtml"/>
+    <itemref idref="B.Apendice_2-1-Antologias.xhtml"/>
+    <itemref idref="B.Apendice_2-2-Artistas.xhtml"/>
+    <itemref idref="apbs04.xhtml"/>
+    <itemref idref="autor.xhtml"/>
+    <itemref idref="notas.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Portada" href="Text/cubierta.xhtml"/>
+    <reference type="text" title="Texto" href="Text/sinopsis.xhtml"/>
+    <reference type="title-page" title="Página de título" href="Text/titulo.xhtml"/>
+    <reference type="copyright-page" title="Créditos" href="Text/info.xhtml"/>
+    <reference type="toc" title="Índice de contenido" href="Text/TOC.xhtml"/>
+  </guide>
+</package>

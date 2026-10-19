@@ -1,0 +1,98 @@
+/* ePub base r2.1 ePubLibre - style.css*/
+
+/*ESTILO DE PÁRRAFO POR DEFECTO
+Edite y habilite o deshabilite un estilo por defecto para el libro, o cree su propio estilo de párrafo personalizado que se adapte al mismo. Recuerde que afectará a todo el contenido, exceptuando las páginas que no enlacen este css (como las fijas). Tambien puede crear uno propio que se ajuste a sus necesidades. OJO: NO SE DEBE ASIGNAR UN TAMAÑO DE FUENTE POR DEFECTO PARA <p>, deje que el lector escoja el que le sea más comodo para la lectura. */
+/* El estilo por defecto es el de párrafo normal, apto para novelas, relatos, ensayos, etc.*/
+p {
+    margin: 0.5em 0 0 0;
+    text-align: justify;
+    text-indent: 5%;
+    line-height: 125%;
+}
+
+/* encabezados */
+h1 {
+	margin: 25% 0 2em; 
+	text-indent:0; 
+	font-style:normal;
+	font-weight:bold;
+	font-size: 1.6em;
+	font-family: serif; 
+	text-align:center; 
+	color:#8E0F0F; 
+}
+
+h2 {
+   margin:25% 0 1em; 
+	text-indent:0; 
+	font-size:1.4em; 
+	font-weight:bold; 
+	font-family: serif; 
+	text-align:center; 
+	color:#8E0F0F; 
+}
+
+h3 {
+	margin:25% 0 1em; 
+	text-indent:0; 
+	font-size:1.4em; 
+	font-weight:bold; 
+	font-family: serif; 
+	text-align:center; 
+	color:#8E0F0F; 
+}
+
+/* El valor por defecto de <hr/> ahora es un espacio en blanco  para marcar saltos de contexto. Cambie la altura del mismo a su conveniencia  modificando el atributo height */
+hr {
+    height: 1.5em;
+}
+
+/* Redonda en párrafos con cursiva*/
+.versos i{ 
+	font-style: normal; 
+}
+
+/* Formateo de tablas sencillas*/
+table { 
+	margin: 1em 0;
+	border:2px solid #8E0F0F;
+	border-collapse: collapse;
+}
+
+
+td { 
+	padding: 0 0.5em 0 0.5em;
+	border-bottom:1px solid #8E0F0F;
+	vertical-align: top;
+	text-align: left;
+}
+
+/* Sangría francesa - poemas o listas*/
+.francesa p{
+	margin-left: 5%; 
+	text-indent: -5%;
+}
+
+.versos {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-style:italic;
+}
+
+.versos p{
+	margin-left: 25%; 
+	text-indent: -10%;
+	line-height:80%;
+}
+
+/* Pie */
+.pie { 
+	padding-top: 1em; 
+	text-align: right; 
+	text-indent: 0; 
+
+}
+
+body {
+	font-family:serif;
+}
